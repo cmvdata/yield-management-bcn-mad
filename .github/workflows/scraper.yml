@@ -1,0 +1,42 @@
+name: BCN-MAD Price Scraper (2x Daily)
+
+on:
+  schedule:
+    # Ejecutar a las 07:00 UTC (09:00 Madrid) y 17:00 UTC (19:00 Madrid)
+    - cron: '0 7 * * *'
+    - cron: '0 17 * * *'
+  workflow_dispatch:  # Permite lanzarlo manualmente desde GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Necesario para hacer commit de los datos
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install fast-flights pandas pyarrow
+
+      - name: Run scraper
+        run: |
+          python scraper.py
+
+      - name: Commit and push data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/ logs/
+          git diff --staged --quiet || git commit -m "data: scraping $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

@@ -1,0 +1,25 @@
+2026-04-16 05:39:29,446 [INFO] === Iniciando sesión de scraping 20260416_053929 ===
+2026-04-16 05:39:29,447 [INFO] Modo TEST: solo DTD 7 y 14 días
+2026-04-16 05:39:29,447 [INFO]   Consultando BCN→MAD para 2026-04-23 (DTD=7)...
+2026-04-16 05:39:29,447 [WARNING] Impersonate 'chrome_126' does not exist, using 'random'
+2026-04-16 05:39:30,153 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDQtMjNqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-16 05:39:31,399 [INFO]   → 195 vuelos encontrados. Precio mínimo: $66.0
+2026-04-16 05:39:31,400 [INFO]   Esperando 5.3s antes de la siguiente consulta...
+2026-04-16 05:39:36,730 [INFO]   Consultando BCN→MAD para 2026-04-30 (DTD=14)...
+2026-04-16 05:39:37,408 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDQtMzBqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-16 05:39:39,025 [INFO]   → 195 vuelos encontrados. Precio mínimo: $66.0
+2026-04-16 05:39:52,144 [INFO] === Iniciando sesión de scraping 20260416_053952 ===
+2026-04-16 05:39:52,144 [INFO] Modo TEST: solo DTD 7 y 14 días
+2026-04-16 05:39:52,145 [INFO]   Consultando BCN→MAD para 2026-04-23 (DTD=7)...
+2026-04-16 05:39:52,145 [WARNING] Impersonate 'chrome_126' does not exist, using 'random'
+2026-04-16 05:39:52,862 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDQtMjNqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-16 05:39:54,225 [INFO]   → 195 vuelos encontrados. Precio mínimo: $66.0
+2026-04-16 05:39:54,225 [INFO]   Esperando 6.8s antes de la siguiente consulta...
+2026-04-16 05:40:01,016 [INFO]   Consultando BCN→MAD para 2026-04-30 (DTD=14)...
+2026-04-16 05:40:01,414 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDQtMzBqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-16 05:40:01,975 [INFO]   → 195 vuelos encontrados. Precio mínimo: $66.0
+2026-04-16 05:40:02,049 [INFO] === Sesión completada ===
+2026-04-16 05:40:02,049 [INFO]   Registros nuevos:  390
+2026-04-16 05:40:02,049 [INFO]   Total acumulado:   390
+2026-04-16 05:40:02,049 [INFO]   Guardado en:       /home/ubuntu/yield_scraper/data/bcn_mad_prices.parquet
+2026-04-16 05:40:02,052 [INFO]   Resumen guardado:  /home/ubuntu/yield_scraper/logs/summary_20260416_053952.json
