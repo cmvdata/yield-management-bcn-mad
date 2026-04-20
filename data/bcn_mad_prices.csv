@@ -3571,3 +3571,451 @@ scraped_at,flight_date,dtd,airline,departure_time,arrival_time,duration,stops,pr
 2026-04-20 09:06:44.932142,2026-05-20,30,Turkish Airlines,"7:05 PM on Wed, May 20","10:25 AM on Thu, May 21",15 hr 20 min,1,811.0,$811,False,typical,BCN,MAD
 2026-04-20 09:06:49.351477,2026-06-04,45,,,,,Unknown,100.0,$100,True,typical,BCN,MAD
 2026-04-20 09:06:57.891505,2026-06-19,60,,,,,Unknown,94.0,$94,True,typical,BCN,MAD
+2026-04-20 18:00:57.526421,2026-04-21,1,,,,,Unknown,68.0,$68,True,typical,BCN,MAD
+2026-04-20 18:01:05.192315,2026-04-23,3,,,,,Unknown,68.0,$68,True,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air Europa,"11:50 AM on Mon, Apr 27","1:20 PM on Mon, Apr 27",1 hr 30 min,0,68.0,$68,True,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"1:35 PM on Mon, Apr 27","3:00 PM on Mon, Apr 27",1 hr 25 min,0,105.0,$105,True,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air Europa,"3:30 PM on Mon, Apr 27","6:10 PM on Mon, Apr 27",2 hr 40 min,1,160.0,$160,True,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air Europa,"10:00 PM on Mon, Apr 27","10:35 PM on Tue, Apr 28",24 hr 35 min,1,84.0,$84,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"9:10 PM on Mon, Apr 27","10:35 PM on Mon, Apr 27",1 hr 25 min,0,115.0,$115,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"12:30 PM on Mon, Apr 27","1:55 PM on Mon, Apr 27",1 hr 25 min,0,121.0,$121,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"6:15 PM on Mon, Apr 27","7:40 PM on Mon, Apr 27",1 hr 25 min,0,132.0,$132,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"2:50 PM on Mon, Apr 27","4:15 PM on Mon, Apr 27",1 hr 25 min,0,137.0,$137,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"8:05 PM on Mon, Apr 27","9:30 PM on Mon, Apr 27",1 hr 25 min,0,137.0,$137,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"6:55 PM on Mon, Apr 27","8:20 PM on Mon, Apr 27",1 hr 25 min,0,160.0,$160,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air Europa,"8:30 PM on Mon, Apr 27","10:00 PM on Mon, Apr 27",1 hr 30 min,0,170.0,$170,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air Europa,"8:40 AM on Mon, Apr 27","12:05 PM on Tue, Apr 28",27 hr 25 min,1,173.0,$173,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"7:00 PM on Mon, Apr 27","7:20 AM on Tue, Apr 28",12 hr 20 min,1,180.0,$180,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"10:35 AM on Mon, Apr 27","12:00 PM on Mon, Apr 27",1 hr 25 min,0,186.0,$186,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air Europa,"6:45 PM on Mon, Apr 27","6:10 PM on Tue, Apr 28",23 hr 25 min,1,191.0,$191,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"9:15 AM on Mon, Apr 27","10:40 AM on Mon, Apr 27",1 hr 25 min,0,204.0,$204,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"9:45 AM on Mon, Apr 27","11:10 AM on Mon, Apr 27",1 hr 25 min,0,204.0,$204,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"8:50 AM on Mon, Apr 27","10:15 AM on Mon, Apr 27",1 hr 25 min,0,213.0,$213,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,"Vueling, British Airways","6:35 PM on Mon, Apr 27","9:40 AM on Tue, Apr 28",15 hr 5 min,1,224.0,$224,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Lufthansa,"7:55 AM on Mon, Apr 27","5:40 PM on Mon, Apr 27",9 hr 45 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,"Lufthansa, Lufthansa City Airlines","7:55 AM on Mon, Apr 27","10:30 PM on Mon, Apr 27",14 hr 35 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,"Lufthansa City Airlines, Lufthansa","9:05 AM on Mon, Apr 27","5:40 PM on Mon, Apr 27",8 hr 35 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Lufthansa City Airlines,"9:05 AM on Mon, Apr 27","10:30 PM on Mon, Apr 27",13 hr 25 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,"Lufthansa City Airlines, Lufthansa","11:50 AM on Mon, Apr 27","5:40 PM on Mon, Apr 27",5 hr 50 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Lufthansa City Airlines,"11:50 AM on Mon, Apr 27","10:30 PM on Mon, Apr 27",10 hr 40 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,"Lufthansa, Lufthansa City Airlines","1:25 PM on Mon, Apr 27","10:30 PM on Mon, Apr 27",9 hr 5 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,"Lufthansa, Lufthansa City Airlines","3:40 PM on Mon, Apr 27","10:30 PM on Mon, Apr 27",6 hr 50 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air Europa,"11:55 AM on Mon, Apr 27","12:05 PM on Tue, Apr 28",24 hr 10 min,1,231.0,$231,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Lufthansa,"10:25 AM on Mon, Apr 27","7:50 PM on Mon, Apr 27",9 hr 25 min,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Lufthansa,"12:40 PM on Mon, Apr 27","7:50 PM on Mon, Apr 27",7 hr 10 min,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Lufthansa,"1:50 PM on Mon, Apr 27","7:50 PM on Mon, Apr 27",6 hr,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Brussels Airlines,"5:35 AM on Mon, Apr 27","4:45 PM on Mon, Apr 27",11 hr 10 min,1,243.0,$243,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Brussels Airlines,"3:20 PM on Mon, Apr 27","11:25 PM on Mon, Apr 27",8 hr 5 min,1,243.0,$243,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"5:00 PM on Mon, Apr 27","6:25 PM on Mon, Apr 27",1 hr 25 min,0,247.0,$247,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Royal Air Maroc,"8:10 PM on Mon, Apr 27","12:35 PM on Tue, Apr 28",16 hr 25 min,1,252.0,$252,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Lufthansa,"3:40 PM on Mon, Apr 27","11:05 AM on Tue, Apr 28",19 hr 25 min,1,257.0,$257,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"7:00 AM on Mon, Apr 27","8:25 AM on Mon, Apr 27",1 hr 25 min,0,264.0,$264,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Lufthansa,"8:00 AM on Mon, Apr 27","4:00 PM on Mon, Apr 27",8 hr,1,269.0,$269,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Lufthansa,"4:20 PM on Mon, Apr 27","11:40 PM on Mon, Apr 27",7 hr 20 min,1,269.0,$269,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Lufthansa,"5:10 PM on Mon, Apr 27","11:40 PM on Mon, Apr 27",6 hr 30 min,1,269.0,$269,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,SWISS,"6:00 AM on Mon, Apr 27","6:40 PM on Mon, Apr 27",12 hr 40 min,1,270.0,$270,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Brussels Airlines,"12:25 PM on Mon, Apr 27","8:05 PM on Mon, Apr 27",7 hr 40 min,1,292.0,$292,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Brussels Airlines,"9:20 PM on Mon, Apr 27","11:50 AM on Tue, Apr 28",14 hr 30 min,1,292.0,$292,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,SWISS,"9:40 AM on Mon, Apr 27","6:40 PM on Mon, Apr 27",9 hr,1,301.0,$301,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,SWISS,"6:35 PM on Mon, Apr 27","9:20 AM on Tue, Apr 28",14 hr 45 min,1,301.0,$301,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,SWISS,"8:00 PM on Mon, Apr 27","9:20 AM on Tue, Apr 28",13 hr 20 min,1,301.0,$301,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,British Airways,"8:35 PM on Mon, Apr 27","3:50 PM on Tue, Apr 28",19 hr 15 min,1,303.0,$303,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,British Airways,"9:20 PM on Mon, Apr 27","3:50 PM on Tue, Apr 28",18 hr 30 min,1,303.0,$303,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Lufthansa,"6:40 AM on Mon, Apr 27","12:35 PM on Mon, Apr 27",5 hr 55 min,1,319.0,$319,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Lufthansa,"7:00 PM on Mon, Apr 27","12:20 PM on Tue, Apr 28",17 hr 20 min,1,327.0,$327,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,British Airways,"3:10 PM on Mon, Apr 27","9:40 AM on Tue, Apr 28",18 hr 30 min,1,345.0,$345,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Royal Air Maroc,"1:45 PM on Mon, Apr 27","7:10 PM on Mon, Apr 27",5 hr 25 min,1,354.0,$354,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,ITA,"6:20 AM on Mon, Apr 27","5:10 PM on Mon, Apr 27",10 hr 50 min,1,355.0,$355,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air Serbia,"9:55 AM on Mon, Apr 27","6:00 PM on Mon, Apr 27",8 hr 5 min,1,363.0,$363,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,LOT,"10:50 AM on Mon, Apr 27","6:35 PM on Mon, Apr 27",7 hr 45 min,1,388.0,$388,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Iberia,"8:00 AM on Mon, Apr 27","9:25 AM on Mon, Apr 27",1 hr 25 min,0,388.0,$388,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air Algerie,"8:05 PM on Mon, Apr 27","12:30 PM on Tue, Apr 28",16 hr 25 min,1,388.0,$388,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,ITA,"11:40 AM on Mon, Apr 27","5:10 PM on Mon, Apr 27",5 hr 30 min,1,408.0,$408,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Tap Air Portugal,"6:00 AM on Mon, Apr 27","12:20 AM on Tue, Apr 28",18 hr 20 min,1,428.0,$428,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Tap Air Portugal,"5:45 PM on Mon, Apr 27","12:20 AM on Tue, Apr 28",6 hr 35 min,1,428.0,$428,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,ITA,"4:50 PM on Mon, Apr 27","10:45 AM on Tue, Apr 28",17 hr 55 min,1,429.0,$429,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,SWISS,"2:55 PM on Mon, Apr 27","9:20 AM on Tue, Apr 28",18 hr 25 min,1,470.0,$470,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,KLM,"9:20 AM on Mon, Apr 27","7:35 PM on Mon, Apr 27",10 hr 15 min,1,476.0,$476,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,KLM,"11:10 AM on Mon, Apr 27","7:35 PM on Mon, Apr 27",8 hr 25 min,1,476.0,$476,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,KLM,"1:25 PM on Mon, Apr 27","7:35 PM on Mon, Apr 27",6 hr 10 min,1,476.0,$476,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Tap Air Portugal,"11:25 AM on Mon, Apr 27","12:20 AM on Tue, Apr 28",12 hr 55 min,1,499.0,$499,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Tap Air Portugal,"10:40 PM on Mon, Apr 27","7:10 PM on Tue, Apr 28",20 hr 30 min,1,499.0,$499,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Aegean,"1:55 AM on Mon, Apr 27","12:00 PM on Mon, Apr 27",10 hr 5 min,1,512.0,$512,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,KLM,"6:20 AM on Mon, Apr 27","12:10 PM on Mon, Apr 27",5 hr 50 min,1,520.0,$520,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,"ITA, Air Europa","6:20 AM on Mon, Apr 27","1:05 PM on Mon, Apr 27",6 hr 45 min,1,536.0,$536,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,"British Airways, Iberia","3:10 PM on Mon, Apr 27","10:10 PM on Mon, Apr 27",7 hr,1,538.0,$538,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,British Airways,"7:40 AM on Mon, Apr 27","3:50 PM on Mon, Apr 27",8 hr 10 min,1,555.0,$555,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Turkish Airlines,"7:10 PM on Mon, Apr 27","10:25 AM on Tue, Apr 28",15 hr 15 min,1,565.0,$565,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,LOT,"12:35 PM on Mon, Apr 27","11:35 PM on Mon, Apr 27",11 hr,1,568.0,$568,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Aegean,"12:15 PM on Mon, Apr 27","12:00 PM on Tue, Apr 28",23 hr 45 min,1,586.0,$586,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Turkish Airlines,"12:10 PM on Mon, Apr 27","10:35 PM on Mon, Apr 27",10 hr 25 min,1,654.0,$654,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Finnair,"10:05 AM on Mon, Apr 27","8:05 PM on Mon, Apr 27",10 hr,1,664.0,$664,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Tap Air Portugal,"8:20 PM on Mon, Apr 27","5:05 PM on Tue, Apr 28",20 hr 45 min,1,734.0,$734,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Eurowings,"5:20 PM on Mon, Apr 27","11:40 AM on Tue, Apr 28",18 hr 20 min,1,749.0,$749,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Eurowings,"7:50 PM on Mon, Apr 27","11:40 AM on Tue, Apr 28",15 hr 50 min,1,749.0,$749,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Turkish Airlines,"7:40 AM on Mon, Apr 27","4:55 PM on Mon, Apr 27",9 hr 15 min,1,768.0,$768,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Luxair,"2:25 PM on Mon, Apr 27","7:30 PM on Mon, Apr 27",5 hr 5 min,1,783.0,$783,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Tap Air Portugal,"3:00 PM on Mon, Apr 27","12:20 AM on Tue, Apr 28",9 hr 20 min,1,812.0,$812,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,"Turkish Airlines, Air Europa","7:40 AM on Mon, Apr 27","7:00 PM on Mon, Apr 27",11 hr 20 min,1,827.0,$827,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air France,"6:10 AM on Mon, Apr 27","11:20 AM on Mon, Apr 27",5 hr 10 min,1,895.0,$895,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air France,"10:05 AM on Mon, Apr 27","3:35 PM on Mon, Apr 27",5 hr 30 min,1,895.0,$895,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air France,"12:20 PM on Mon, Apr 27","11:15 PM on Mon, Apr 27",10 hr 55 min,1,895.0,$895,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air France,"9:15 PM on Mon, Apr 27","11:20 AM on Tue, Apr 28",14 hr 5 min,1,895.0,$895,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air France,"3:50 PM on Mon, Apr 27","11:15 PM on Mon, Apr 27",7 hr 25 min,1,904.0,$904,False,typical,BCN,MAD
+2026-04-20 18:01:10.027495,2026-04-27,7,Air France,"4:40 PM on Mon, Apr 27","11:15 PM on Mon, Apr 27",6 hr 35 min,1,904.0,$904,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Air Europa,"11:50 AM on Thu, Apr 30","1:20 PM on Thu, Apr 30",1 hr 30 min,0,86.0,$86,True,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"12:30 PM on Thu, Apr 30","1:55 PM on Thu, Apr 30",1 hr 25 min,0,105.0,$105,True,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"1:35 PM on Thu, Apr 30","3:00 PM on Thu, Apr 30",1 hr 25 min,0,105.0,$105,True,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"9:15 AM on Thu, Apr 30","10:40 AM on Thu, Apr 30",1 hr 25 min,0,121.0,$121,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"10:35 AM on Thu, Apr 30","12:00 PM on Thu, Apr 30",1 hr 25 min,0,121.0,$121,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"8:50 AM on Thu, Apr 30","10:15 AM on Thu, Apr 30",1 hr 25 min,0,132.0,$132,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"2:50 PM on Thu, Apr 30","4:15 PM on Thu, Apr 30",1 hr 25 min,0,137.0,$137,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"8:00 AM on Thu, Apr 30","9:25 AM on Thu, Apr 30",1 hr 25 min,0,145.0,$145,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"9:45 AM on Thu, Apr 30","11:10 AM on Thu, Apr 30",1 hr 25 min,0,152.0,$152,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Air Europa,"8:30 PM on Thu, Apr 30","10:00 PM on Thu, Apr 30",1 hr 30 min,0,170.0,$170,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"7:00 AM on Thu, Apr 30","8:25 AM on Thu, Apr 30",1 hr 25 min,0,178.0,$178,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"8:05 PM on Thu, Apr 30","9:30 PM on Thu, Apr 30",1 hr 25 min,0,186.0,$186,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"6:15 PM on Thu, Apr 30","7:40 PM on Thu, Apr 30",1 hr 25 min,0,230.0,$230,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"6:55 PM on Thu, Apr 30","8:20 PM on Thu, Apr 30",1 hr 25 min,0,230.0,$230,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"9:10 PM on Thu, Apr 30","10:35 PM on Thu, Apr 30",1 hr 25 min,0,230.0,$230,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Brussels Airlines,"5:35 AM on Thu, Apr 30","4:45 PM on Thu, Apr 30",11 hr 10 min,1,243.0,$243,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"5:00 PM on Thu, Apr 30","6:25 PM on Thu, Apr 30",1 hr 25 min,0,264.0,$264,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Air Europa,"8:40 AM on Thu, Apr 30","12:05 PM on Thu, Apr 30",3 hr 25 min,1,285.0,$285,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Lufthansa,"6:40 PM on Thu, Apr 30","5:40 PM on Fri, May 1",23 hr,1,285.0,$285,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"7:00 PM on Thu, Apr 30","7:20 AM on Fri, May 1",12 hr 20 min,1,291.0,$291,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Air Europa,"10:00 PM on Thu, Apr 30","8:40 PM on Fri, May 1",22 hr 40 min,1,292.0,$292,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Iberia,"2:30 PM on Thu, Apr 30","9:00 PM on Thu, Apr 30",6 hr 30 min,1,297.0,$297,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"Vueling, Iberia","6:55 AM on Thu, Apr 30","2:55 PM on Thu, Apr 30",8 hr,1,338.0,$338,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Brussels Airlines,"12:25 PM on Thu, Apr 30","8:05 PM on Thu, Apr 30",7 hr 40 min,1,345.0,$345,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Air Europa,"11:55 AM on Thu, Apr 30","6:10 PM on Thu, Apr 30",6 hr 15 min,1,359.0,$359,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"Lufthansa, Lufthansa City Airlines","7:55 AM on Thu, Apr 30","2:10 PM on Thu, Apr 30",6 hr 15 min,1,360.0,$360,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Lufthansa,"7:55 AM on Thu, Apr 30","5:40 PM on Thu, Apr 30",9 hr 45 min,1,360.0,$360,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"Lufthansa City Airlines, Lufthansa","9:10 AM on Thu, Apr 30","5:40 PM on Thu, Apr 30",8 hr 30 min,1,360.0,$360,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"Lufthansa City Airlines, Lufthansa","11:50 AM on Thu, Apr 30","5:40 PM on Thu, Apr 30",5 hr 50 min,1,360.0,$360,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Lufthansa,"4:20 PM on Thu, Apr 30","11:20 AM on Fri, May 1",19 hr,1,360.0,$360,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Lufthansa,"5:10 PM on Thu, Apr 30","11:20 AM on Fri, May 1",18 hr 10 min,1,360.0,$360,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"ITA, Air Europa","6:20 AM on Thu, Apr 30","1:05 PM on Thu, Apr 30",6 hr 45 min,1,362.0,$362,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"Vueling, Iberia","7:00 AM on Thu, Apr 30","2:55 PM on Thu, Apr 30",7 hr 55 min,1,367.0,$367,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Lufthansa,"6:40 AM on Thu, Apr 30","4:40 PM on Thu, Apr 30",10 hr,1,371.0,$371,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Lufthansa,"8:00 AM on Thu, Apr 30","4:40 PM on Thu, Apr 30",8 hr 40 min,1,371.0,$371,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Lufthansa,"10:20 AM on Thu, Apr 30","4:40 PM on Thu, Apr 30",6 hr 20 min,1,371.0,$371,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Lufthansa,"12:40 PM on Thu, Apr 30","11:40 PM on Thu, Apr 30",11 hr,1,371.0,$371,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Lufthansa,"1:50 PM on Thu, Apr 30","11:40 PM on Thu, Apr 30",9 hr 50 min,1,371.0,$371,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Lufthansa,"1:25 PM on Thu, Apr 30","11:05 AM on Fri, May 1",21 hr 40 min,1,398.0,$398,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Lufthansa,"3:40 PM on Thu, Apr 30","11:05 AM on Fri, May 1",19 hr 25 min,1,398.0,$398,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"Lufthansa, Lufthansa City Airlines","6:40 PM on Thu, Apr 30","2:10 PM on Fri, May 1",19 hr 30 min,1,398.0,$398,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Lufthansa,"7:00 PM on Thu, Apr 30","11:20 AM on Fri, May 1",16 hr 20 min,1,409.0,$409,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"Vueling, Iberia","12:25 PM on Thu, Apr 30","11:25 PM on Thu, Apr 30",11 hr,1,416.0,$416,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"ITA, Air Europa","11:40 AM on Thu, Apr 30","9:00 PM on Thu, Apr 30",9 hr 20 min,1,428.0,$428,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"Vueling, British Airways","7:30 AM on Thu, Apr 30","3:50 PM on Thu, Apr 30",8 hr 20 min,1,431.0,$431,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,SWISS,"8:00 PM on Thu, Apr 30","9:20 AM on Fri, May 1",13 hr 20 min,1,438.0,$438,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"British Airways, Iberia","7:40 AM on Thu, Apr 30","2:15 PM on Thu, Apr 30",6 hr 35 min,1,456.0,$456,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Brussels Airlines,"3:15 PM on Thu, Apr 30","11:25 PM on Thu, Apr 30",8 hr 10 min,1,460.0,$460,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,British Airways,"12:00 PM on Thu, Apr 30","8:05 PM on Thu, Apr 30",8 hr 5 min,1,504.0,$504,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,British Airways,"1:05 PM on Thu, Apr 30","8:05 PM on Thu, Apr 30",7 hr,1,504.0,$504,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,SWISS,"2:55 PM on Thu, Apr 30","9:20 AM on Fri, May 1",18 hr 25 min,1,504.0,$504,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"British Airways, Iberia","9:25 PM on Thu, Apr 30","12:40 PM on Fri, May 1",15 hr 15 min,1,540.0,$540,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,British Airways,"9:25 PM on Thu, Apr 30","5:30 PM on Fri, May 1",20 hr 5 min,1,540.0,$540,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,SWISS,"6:00 AM on Thu, Apr 30","6:40 PM on Thu, Apr 30",12 hr 40 min,1,540.0,$540,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,SWISS,"9:40 AM on Thu, Apr 30","6:40 PM on Thu, Apr 30",9 hr,1,540.0,$540,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Royal Air Maroc,"1:45 PM on Thu, Apr 30","7:10 PM on Thu, Apr 30",5 hr 25 min,1,552.0,$552,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"British Airways, Iberia","1:05 PM on Thu, Apr 30","7:15 PM on Thu, Apr 30",6 hr 10 min,1,553.0,$553,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Finnair,"10:05 AM on Thu, Apr 30","8:05 PM on Thu, Apr 30",10 hr,1,558.0,$558,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,ITA,"4:50 PM on Thu, Apr 30","10:45 AM on Fri, May 1",17 hr 55 min,1,565.0,$565,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Air Europa,"3:30 PM on Thu, Apr 30","12:05 PM on Fri, May 1",20 hr 35 min,1,592.0,$592,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Eurowings,"10:30 AM on Thu, Apr 30","6:40 PM on Thu, Apr 30",8 hr 10 min,1,614.0,$614,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,KLM,"6:20 AM on Thu, Apr 30","12:10 PM on Thu, Apr 30",5 hr 50 min,1,634.0,$634,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Tap Air Portugal,"8:20 PM on Thu, Apr 30","5:00 PM on Fri, May 1",20 hr 40 min,1,646.0,$646,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Tap Air Portugal,"10:40 PM on Thu, Apr 30","5:00 PM on Fri, May 1",18 hr 20 min,1,646.0,$646,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Turkish Airlines,"12:10 PM on Thu, Apr 30","10:35 PM on Thu, Apr 30",10 hr 25 min,1,654.0,$654,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,LOT,"12:35 PM on Thu, Apr 30","11:35 PM on Thu, Apr 30",11 hr,1,674.0,$674,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Air Serbia,"9:55 AM on Thu, Apr 30","6:00 PM on Thu, Apr 30",8 hr 5 min,1,682.0,$682,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Royal Air Maroc,"8:10 PM on Thu, Apr 30","12:35 PM on Fri, May 1",16 hr 25 min,1,690.0,$690,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Air Europa,"6:45 PM on Thu, Apr 30","10:35 PM on Thu, Apr 30",3 hr 50 min,1,703.0,$703,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,"Turkish Airlines, Air Europa","7:40 AM on Thu, Apr 30","7:00 PM on Thu, Apr 30",11 hr 20 min,1,738.0,$738,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,KLM,"9:20 AM on Thu, Apr 30","4:25 PM on Thu, Apr 30",7 hr 5 min,1,739.0,$739,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Tap Air Portugal,"6:00 AM on Thu, Apr 30","12:40 PM on Thu, Apr 30",6 hr 40 min,1,764.0,$764,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Turkish Airlines,"7:40 AM on Thu, Apr 30","10:35 PM on Thu, Apr 30",14 hr 55 min,1,768.0,$768,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Turkish Airlines,"7:05 PM on Thu, Apr 30","10:25 AM on Fri, May 1",15 hr 20 min,1,889.0,$889,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Air France,"6:10 AM on Thu, Apr 30","3:35 PM on Thu, Apr 30",9 hr 25 min,1,895.0,$895,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Air France,"4:40 PM on Thu, Apr 30","9:10 AM on Fri, May 1",16 hr 30 min,1,895.0,$895,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Air France,"3:50 PM on Thu, Apr 30","9:10 AM on Fri, May 1",17 hr 20 min,1,904.0,$904,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Tap Air Portugal,"11:25 AM on Thu, Apr 30","12:20 AM on Fri, May 1",12 hr 55 min,1,1048.0,$1048,False,typical,BCN,MAD
+2026-04-20 18:01:15.229115,2026-04-30,10,Air France,"10:05 AM on Thu, Apr 30","3:35 PM on Thu, Apr 30",5 hr 30 min,1,1107.0,$1107,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air Europa,"8:40 AM on Mon, May 4","12:05 PM on Mon, May 4",3 hr 25 min,1,85.0,$85,True,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air Europa,"11:50 AM on Mon, May 4","1:20 PM on Mon, May 4",1 hr 30 min,0,112.0,$112,True,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"1:35 PM on Mon, May 4","3:00 PM on Mon, May 4",1 hr 25 min,0,115.0,$115,True,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"2:50 PM on Mon, May 4","4:15 PM on Mon, May 4",1 hr 25 min,0,115.0,$115,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"8:05 PM on Mon, May 4","9:30 PM on Mon, May 4",1 hr 25 min,0,115.0,$115,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"9:10 PM on Mon, May 4","10:35 PM on Mon, May 4",1 hr 25 min,0,115.0,$115,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"6:15 PM on Mon, May 4","7:40 PM on Mon, May 4",1 hr 25 min,0,121.0,$121,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"6:55 PM on Mon, May 4","8:20 PM on Mon, May 4",1 hr 25 min,0,121.0,$121,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air Europa,"8:30 PM on Mon, May 4","10:00 PM on Mon, May 4",1 hr 30 min,0,126.0,$126,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"5:00 PM on Mon, May 4","6:25 PM on Mon, May 4",1 hr 25 min,0,137.0,$137,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air Europa,"10:00 PM on Mon, May 4","12:05 PM on Tue, May 5",14 hr 5 min,1,151.0,$151,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"10:35 AM on Mon, May 4","12:00 PM on Mon, May 4",1 hr 25 min,0,168.0,$168,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"12:30 PM on Mon, May 4","1:55 PM on Mon, May 4",1 hr 25 min,0,178.0,$178,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air Europa,"11:55 AM on Mon, May 4","6:10 PM on Mon, May 4",6 hr 15 min,1,196.0,$196,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"7:00 AM on Mon, May 4","8:25 AM on Mon, May 4",1 hr 25 min,0,204.0,$204,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"9:15 AM on Mon, May 4","10:40 AM on Mon, May 4",1 hr 25 min,0,213.0,$213,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"9:45 AM on Mon, May 4","11:10 AM on Mon, May 4",1 hr 25 min,0,213.0,$213,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air Europa,"3:30 PM on Mon, May 4","9:30 PM on Mon, May 4",6 hr,2,218.0,$218,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air Algerie,"8:05 PM on Mon, May 4","12:30 PM on Tue, May 5",16 hr 25 min,1,228.0,$228,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"8:00 AM on Mon, May 4","9:25 AM on Mon, May 4",1 hr 25 min,0,230.0,$230,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"8:50 AM on Mon, May 4","10:15 AM on Mon, May 4",1 hr 25 min,0,230.0,$230,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Lufthansa,"6:40 AM on Mon, May 4","12:35 PM on Mon, May 4",5 hr 55 min,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Brussels Airlines,"5:35 AM on Mon, May 4","11:50 AM on Mon, May 4",6 hr 15 min,1,243.0,$243,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"Lufthansa City Airlines, Lufthansa","9:05 AM on Mon, May 4","5:40 PM on Mon, May 4",8 hr 35 min,1,258.0,$258,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Lufthansa City Airlines,"9:05 AM on Mon, May 4","10:30 PM on Mon, May 4",13 hr 25 min,1,258.0,$258,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"2:30 PM on Mon, May 4","9:00 PM on Mon, May 4",6 hr 30 min,1,259.0,$259,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,ITA,"4:50 PM on Mon, May 4","10:45 AM on Tue, May 5",17 hr 55 min,1,260.0,$260,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Tap Air Portugal,"10:40 PM on Mon, May 4","10:05 AM on Tue, May 5",11 hr 25 min,1,265.0,$265,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Lufthansa,"8:00 AM on Mon, May 4","4:00 PM on Mon, May 4",8 hr,1,269.0,$269,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Lufthansa,"5:10 PM on Mon, May 4","11:40 PM on Mon, May 4",6 hr 30 min,1,269.0,$269,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,SWISS,"6:00 AM on Mon, May 4","6:40 PM on Mon, May 4",12 hr 40 min,1,270.0,$270,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,SWISS,"9:40 AM on Mon, May 4","6:40 PM on Mon, May 4",9 hr,1,270.0,$270,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"Vueling, Iberia","7:20 AM on Mon, May 4","10:35 PM on Mon, May 4",15 hr 15 min,1,274.0,$274,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"Vueling, British Airways","7:30 AM on Mon, May 4","3:50 PM on Mon, May 4",8 hr 20 min,1,281.0,$281,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Brussels Airlines,"9:20 PM on Mon, May 4","11:50 AM on Tue, May 5",14 hr 30 min,1,292.0,$292,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air Serbia,"9:55 AM on Mon, May 4","11:40 AM on Tue, May 5",25 hr 45 min,1,299.0,$299,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,SWISS,"6:35 PM on Mon, May 4","9:20 AM on Tue, May 5",14 hr 45 min,1,301.0,$301,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,SWISS,"8:00 PM on Mon, May 4","9:20 AM on Tue, May 5",13 hr 20 min,1,301.0,$301,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"Lufthansa, Lufthansa City Airlines","7:55 AM on Mon, May 4","2:10 PM on Mon, May 4",6 hr 15 min,1,308.0,$308,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Lufthansa,"7:55 AM on Mon, May 4","5:40 PM on Mon, May 4",9 hr 45 min,1,308.0,$308,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"Lufthansa City Airlines, Lufthansa","11:50 AM on Mon, May 4","5:40 PM on Mon, May 4",5 hr 50 min,1,308.0,$308,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Lufthansa City Airlines,"11:50 AM on Mon, May 4","10:30 PM on Mon, May 4",10 hr 40 min,1,308.0,$308,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"Lufthansa, Lufthansa City Airlines","1:25 PM on Mon, May 4","10:30 PM on Mon, May 4",9 hr 5 min,1,308.0,$308,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"Lufthansa, Lufthansa City Airlines","3:40 PM on Mon, May 4","10:30 PM on Mon, May 4",6 hr 50 min,1,308.0,$308,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Lufthansa,"1:50 PM on Mon, May 4","7:50 PM on Mon, May 4",6 hr,1,319.0,$319,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Lufthansa,"4:20 PM on Mon, May 4","11:40 PM on Mon, May 4",7 hr 20 min,1,319.0,$319,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Aegean,"1:55 AM on Mon, May 4","12:00 PM on Mon, May 4",10 hr 5 min,1,319.0,$319,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,British Airways,"7:40 AM on Mon, May 4","5:30 PM on Mon, May 4",9 hr 50 min,1,331.0,$331,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"Vueling, British Airways","6:35 PM on Mon, May 4","9:40 AM on Tue, May 5",15 hr 5 min,1,334.0,$334,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Tap Air Portugal,"5:45 PM on Mon, May 4","12:20 AM on Tue, May 5",6 hr 35 min,1,336.0,$336,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Brussels Airlines,"3:20 PM on Mon, May 4","11:25 PM on Mon, May 4",8 hr 5 min,1,345.0,$345,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"British Airways, Iberia","9:20 PM on Mon, May 4","2:15 PM on Tue, May 5",16 hr 55 min,1,345.0,$345,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Royal Air Maroc,"1:45 PM on Mon, May 4","7:10 PM on Mon, May 4",5 hr 25 min,1,350.0,$350,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"British Airways, Iberia","7:40 AM on Mon, May 4","2:15 PM on Mon, May 4",6 hr 35 min,1,356.0,$356,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air Europa,"6:45 PM on Mon, May 4","10:35 PM on Mon, May 4",3 hr 50 min,1,359.0,$359,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Tap Air Portugal,"6:00 AM on Mon, May 4","12:20 AM on Tue, May 5",18 hr 20 min,1,363.0,$363,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Lufthansa,"12:40 PM on Mon, May 4","7:50 PM on Mon, May 4",7 hr 10 min,1,371.0,$371,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Royal Air Maroc,"8:10 PM on Mon, May 4","12:35 PM on Tue, May 5",16 hr 25 min,1,372.0,$372,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air Serbia,"8:35 PM on Mon, May 4","11:40 AM on Tue, May 5",15 hr 5 min,1,375.0,$375,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,British Airways,"9:20 PM on Mon, May 4","5:30 PM on Tue, May 5",20 hr 10 min,1,377.0,$377,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,LOT,"10:50 AM on Mon, May 4","6:25 PM on Mon, May 4",7 hr 35 min,1,388.0,$388,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"British Airways, Iberia","8:35 PM on Mon, May 4","2:15 PM on Tue, May 5",17 hr 40 min,1,390.0,$390,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Brussels Airlines,"12:25 PM on Mon, May 4","8:05 PM on Mon, May 4",7 hr 40 min,1,398.0,$398,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,KLM,"6:20 AM on Mon, May 4","12:10 PM on Mon, May 4",5 hr 50 min,1,413.0,$413,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,British Airways,"10:35 AM on Mon, May 4","5:30 PM on Mon, May 4",6 hr 55 min,1,417.0,$417,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,British Airways,"7:20 PM on Mon, May 4","5:30 PM on Tue, May 5",22 hr 10 min,1,421.0,$421,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,British Airways,"8:35 PM on Mon, May 4","5:30 PM on Tue, May 5",20 hr 55 min,1,421.0,$421,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,SWISS,"2:55 PM on Mon, May 4","9:20 AM on Tue, May 5",18 hr 25 min,1,470.0,$470,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"ITA, Air Europa","11:40 AM on Mon, May 4","9:00 PM on Mon, May 4",9 hr 20 min,1,475.0,$475,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Tap Air Portugal,"3:00 PM on Mon, May 4","12:20 AM on Tue, May 5",9 hr 20 min,1,501.0,$501,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"Royal Air Maroc, Iberia","1:45 PM on Mon, May 4","8:40 PM on Mon, May 4",6 hr 55 min,1,507.0,$507,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,ITA,"11:40 AM on Mon, May 4","5:10 PM on Mon, May 4",5 hr 30 min,1,508.0,$508,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Eurowings,"7:50 PM on Mon, May 4","11:40 AM on Tue, May 5",15 hr 50 min,1,511.0,$511,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Tap Air Portugal,"11:25 AM on Mon, May 4","12:20 AM on Tue, May 5",12 hr 55 min,1,528.0,$528,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Iberia,"7:00 PM on Mon, May 4","7:20 AM on Tue, May 5",12 hr 20 min,1,553.0,$553,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,LOT,"12:35 PM on Mon, May 4","11:35 PM on Mon, May 4",11 hr,1,568.0,$568,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"ITA, Air Europa","6:20 AM on Mon, May 4","9:00 PM on Mon, May 4",14 hr 40 min,1,591.0,$591,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,KLM,"11:10 AM on Mon, May 4","7:35 PM on Mon, May 4",8 hr 25 min,1,592.0,$592,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Eurowings,"5:20 PM on Mon, May 4","11:40 AM on Tue, May 5",18 hr 20 min,1,597.0,$597,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"British Airways, Iberia","5:10 PM on Mon, May 4","11:25 PM on Mon, May 4",6 hr 15 min,1,601.0,$601,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air France,"3:50 PM on Mon, May 4","9:10 AM on Tue, May 5",17 hr 20 min,1,726.0,$726,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air France,"4:40 PM on Mon, May 4","9:10 AM on Tue, May 5",16 hr 30 min,1,726.0,$726,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air France,"6:10 PM on Mon, May 4","9:10 AM on Tue, May 5",15 hr,1,726.0,$726,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air France,"9:15 PM on Mon, May 4","9:10 AM on Tue, May 5",11 hr 55 min,1,726.0,$726,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,KLM,"5:20 PM on Mon, May 4","11:25 PM on Mon, May 4",6 hr 5 min,1,739.0,$739,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Tap Air Portugal,"8:20 PM on Mon, May 4","5:05 PM on Tue, May 5",20 hr 45 min,1,764.0,$764,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Turkish Airlines,"7:10 PM on Mon, May 4","10:25 AM on Tue, May 5",15 hr 15 min,1,853.0,$853,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,ITA,"6:20 AM on Mon, May 4","12:10 AM on Tue, May 5",17 hr 50 min,1,886.0,$886,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Turkish Airlines,"7:40 AM on Mon, May 4","10:35 PM on Mon, May 4",14 hr 55 min,1,890.0,$890,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Turkish Airlines,"12:10 PM on Mon, May 4","10:35 PM on Mon, May 4",10 hr 25 min,1,890.0,$890,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,"Turkish Airlines, Air Europa","7:40 AM on Mon, May 4","7:00 PM on Mon, May 4",11 hr 20 min,1,905.0,$905,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Luxair,"2:15 PM on Mon, May 4","7:30 PM on Mon, May 4",5 hr 15 min,1,995.0,$995,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Finnair,"10:05 AM on Mon, May 4","8:05 PM on Mon, May 4",10 hr,1,1052.0,$1052,False,typical,BCN,MAD
+2026-04-20 18:01:20.428448,2026-05-04,14,Air France,"6:10 AM on Mon, May 4","11:20 AM on Mon, May 4",5 hr 10 min,1,1107.0,$1107,False,typical,BCN,MAD
+2026-04-20 18:01:27.528164,2026-05-11,21,,,,,Unknown,78.0,$78,True,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"3:50 PM on Wed, May 20","5:15 PM on Wed, May 20",1 hr 25 min,0,78.0,$78,True,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Air Europa,"6:45 PM on Wed, May 20","10:35 PM on Wed, May 20",3 hr 50 min,1,85.0,$85,True,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Air Europa,"11:50 AM on Wed, May 20","1:20 PM on Wed, May 20",1 hr 30 min,0,99.0,$99,True,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Air Europa,"10:00 PM on Wed, May 20","9:25 AM on Thu, May 21",11 hr 25 min,1,76.0,$76,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"2:50 PM on Wed, May 20","4:15 PM on Wed, May 20",1 hr 25 min,0,105.0,$105,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"8:05 PM on Wed, May 20","9:30 PM on Wed, May 20",1 hr 25 min,0,115.0,$115,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"7:00 PM on Wed, May 20","6:45 AM on Thu, May 21",11 hr 45 min,1,122.0,$122,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"1:35 PM on Wed, May 20","3:00 PM on Wed, May 20",1 hr 25 min,0,126.0,$126,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"8:50 AM on Wed, May 20","10:15 AM on Wed, May 20",1 hr 25 min,0,132.0,$132,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"10:35 AM on Wed, May 20","12:00 PM on Wed, May 20",1 hr 25 min,0,132.0,$132,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Vueling, Iberia","7:30 AM on Wed, May 20","12:50 PM on Wed, May 20",5 hr 20 min,1,134.0,$134,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"9:15 AM on Wed, May 20","10:40 AM on Wed, May 20",1 hr 25 min,0,137.0,$137,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"9:45 AM on Wed, May 20","11:10 AM on Wed, May 20",1 hr 25 min,0,137.0,$137,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"8:00 AM on Wed, May 20","9:25 AM on Wed, May 20",1 hr 25 min,0,145.0,$145,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Air Europa,"8:40 AM on Wed, May 20","12:05 PM on Wed, May 20",3 hr 25 min,1,151.0,$151,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Air Europa,"11:55 AM on Wed, May 20","6:10 PM on Wed, May 20",6 hr 15 min,1,151.0,$151,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"9:10 PM on Wed, May 20","10:35 PM on Wed, May 20",1 hr 25 min,0,152.0,$152,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"5:00 PM on Wed, May 20","6:25 PM on Wed, May 20",1 hr 25 min,0,160.0,$160,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"7:00 AM on Wed, May 20","8:25 AM on Wed, May 20",1 hr 25 min,0,168.0,$168,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Brussels Airlines,"5:35 AM on Wed, May 20","11:50 AM on Wed, May 20",6 hr 15 min,1,173.0,$173,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Brussels Airlines,"12:25 PM on Wed, May 20","11:25 PM on Wed, May 20",11 hr,1,173.0,$173,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Brussels Airlines,"3:15 PM on Wed, May 20","11:25 PM on Wed, May 20",8 hr 10 min,1,173.0,$173,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"6:15 PM on Wed, May 20","7:40 PM on Wed, May 20",1 hr 25 min,0,178.0,$178,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Tap Air Portugal,"6:00 AM on Wed, May 20","12:20 AM on Thu, May 21",18 hr 20 min,1,187.0,$187,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Vueling, British Airways","7:30 AM on Wed, May 20","8:05 PM on Wed, May 20",12 hr 35 min,1,191.0,$191,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Tap Air Portugal,"5:45 PM on Wed, May 20","12:20 AM on Thu, May 21",6 hr 35 min,1,203.0,$203,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Vueling, Iberia","12:55 PM on Wed, May 20","9:30 PM on Wed, May 20",8 hr 35 min,1,203.0,$203,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Vueling, Iberia","2:15 PM on Wed, May 20","9:30 PM on Wed, May 20",7 hr 15 min,1,203.0,$203,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Vueling, Iberia","3:50 PM on Wed, May 20","9:30 PM on Wed, May 20",5 hr 40 min,1,203.0,$203,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Vueling, Iberia","9:55 AM on Wed, May 20","10:10 PM on Wed, May 20",12 hr 15 min,1,204.0,$204,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Vueling, Iberia","10:50 AM on Wed, May 20","10:10 PM on Wed, May 20",11 hr 20 min,1,204.0,$204,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Vueling, Iberia","11:15 AM on Wed, May 20","10:10 PM on Wed, May 20",10 hr 55 min,1,204.0,$204,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,ITA,"6:20 AM on Wed, May 20","12:10 AM on Thu, May 21",17 hr 50 min,1,209.0,$209,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Brussels Airlines,"9:20 PM on Wed, May 20","11:50 AM on Thu, May 21",14 hr 30 min,1,210.0,$210,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,ITA,"4:50 PM on Wed, May 20","12:10 AM on Thu, May 21",7 hr 20 min,1,219.0,$219,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Tap Air Portugal,"3:00 PM on Wed, May 20","12:20 AM on Thu, May 21",9 hr 20 min,1,220.0,$220,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Lufthansa, Lufthansa City Airlines","7:55 AM on Wed, May 20","2:10 PM on Wed, May 20",6 hr 15 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Iberia,"2:30 PM on Wed, May 20","9:00 PM on Wed, May 20",6 hr 30 min,1,226.0,$226,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Vueling, Iberia","2:25 PM on Wed, May 20","11:25 PM on Wed, May 20",9 hr,1,227.0,$227,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Air Algerie,"8:05 PM on Wed, May 20","12:30 PM on Thu, May 21",16 hr 25 min,1,228.0,$228,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,ITA,"11:40 AM on Wed, May 20","12:10 AM on Thu, May 21",12 hr 30 min,1,231.0,$231,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Lufthansa,"6:40 AM on Wed, May 20","4:10 PM on Wed, May 20",9 hr 30 min,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Lufthansa,"8:00 AM on Wed, May 20","4:10 PM on Wed, May 20",8 hr 10 min,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Lufthansa,"10:15 AM on Wed, May 20","4:10 PM on Wed, May 20",5 hr 55 min,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Lufthansa,"12:40 PM on Wed, May 20","7:50 PM on Wed, May 20",7 hr 10 min,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Lufthansa,"1:50 PM on Wed, May 20","7:50 PM on Wed, May 20",6 hr,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Lufthansa,"4:20 PM on Wed, May 20","11:40 PM on Wed, May 20",7 hr 20 min,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Lufthansa,"5:10 PM on Wed, May 20","11:40 PM on Wed, May 20",6 hr 30 min,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Royal Air Maroc,"1:45 PM on Wed, May 20","12:35 PM on Thu, May 21",22 hr 50 min,1,237.0,$237,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,British Airways,"7:40 AM on Wed, May 20","8:05 PM on Wed, May 20",12 hr 25 min,1,240.0,$240,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Vueling, Iberia","9:25 PM on Wed, May 20","12:50 PM on Thu, May 21",15 hr 25 min,1,250.0,$250,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"British Airways, Iberia","7:40 AM on Wed, May 20","10:10 PM on Wed, May 20",14 hr 30 min,1,253.0,$253,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Air Europa,"8:30 PM on Wed, May 20","10:00 PM on Wed, May 20",1 hr 30 min,0,258.0,$258,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Lufthansa City Airlines, Lufthansa","9:05 AM on Wed, May 20","5:40 PM on Wed, May 20",8 hr 35 min,1,258.0,$258,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Lufthansa City Airlines, Lufthansa","11:50 AM on Wed, May 20","5:40 PM on Wed, May 20",5 hr 50 min,1,258.0,$258,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Lufthansa, Lufthansa City Airlines","1:25 PM on Wed, May 20","10:30 PM on Wed, May 20",9 hr 5 min,1,258.0,$258,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Lufthansa, Lufthansa City Airlines","3:40 PM on Wed, May 20","10:30 PM on Wed, May 20",6 hr 50 min,1,258.0,$258,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"ITA, Air Europa","6:20 AM on Wed, May 20","1:05 PM on Wed, May 20",6 hr 45 min,1,259.0,$259,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Royal Air Maroc,"8:10 PM on Wed, May 20","12:35 PM on Thu, May 21",16 hr 25 min,1,262.0,$262,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Tap Air Portugal,"10:40 PM on Wed, May 20","10:05 AM on Thu, May 21",11 hr 25 min,1,268.0,$268,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Air Europa,"3:30 PM on Wed, May 20","9:25 AM on Thu, May 21",17 hr 55 min,1,275.0,$275,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Tap Air Portugal,"11:25 AM on Wed, May 20","12:20 AM on Thu, May 21",12 hr 55 min,1,283.0,$283,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,SWISS,"6:00 AM on Wed, May 20","6:40 PM on Wed, May 20",12 hr 40 min,1,296.0,$296,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,SWISS,"9:40 AM on Wed, May 20","6:40 PM on Wed, May 20",9 hr,1,296.0,$296,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,SWISS,"8:00 PM on Wed, May 20","9:20 AM on Thu, May 21",13 hr 20 min,1,296.0,$296,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Aegean,"1:55 AM on Wed, May 20","12:00 PM on Wed, May 20",10 hr 5 min,1,299.0,$299,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"British Airways, Iberia","3:05 PM on Wed, May 20","10:10 PM on Wed, May 20",7 hr 5 min,1,301.0,$301,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Royal Air Maroc, Iberia","1:45 PM on Wed, May 20","8:40 PM on Wed, May 20",6 hr 55 min,1,303.0,$303,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"Vueling, Aer Lingus","7:05 PM on Wed, May 20","9:55 AM on Thu, May 21",14 hr 50 min,1,304.0,$304,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,"British Airways, Iberia","4:35 PM on Wed, May 20","11:25 PM on Wed, May 20",6 hr 50 min,1,314.0,$314,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Air France,"6:10 AM on Wed, May 20","3:35 PM on Wed, May 20",9 hr 25 min,1,348.0,$348,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Air France,"10:05 AM on Wed, May 20","3:35 PM on Wed, May 20",5 hr 30 min,1,348.0,$348,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Tap Air Portugal,"8:20 PM on Wed, May 20","10:05 AM on Thu, May 21",13 hr 45 min,1,398.0,$398,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Lufthansa,"6:40 PM on Wed, May 20","5:40 PM on Thu, May 21",23 hr,1,398.0,$398,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Eurowings,"10:30 AM on Wed, May 20","4:20 PM on Wed, May 20",5 hr 50 min,1,402.0,$402,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Air France,"9:15 PM on Wed, May 20","9:10 AM on Thu, May 21",11 hr 55 min,1,410.0,$410,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,SWISS,"2:55 PM on Wed, May 20","9:20 AM on Thu, May 21",18 hr 25 min,1,429.0,$429,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Turkish Airlines,"7:40 AM on Wed, May 20","4:55 PM on Wed, May 20",9 hr 15 min,1,434.0,$434,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Finnair,"10:05 AM on Wed, May 20","8:05 PM on Wed, May 20",10 hr,1,476.0,$476,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,KLM,"6:20 AM on Wed, May 20","12:10 PM on Wed, May 20",5 hr 50 min,1,476.0,$476,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Turkish Airlines,"12:10 PM on Wed, May 20","10:35 PM on Wed, May 20",10 hr 25 min,1,486.0,$486,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Air France,"6:10 PM on Wed, May 20","11:15 PM on Wed, May 20",5 hr 5 min,1,497.0,$497,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,British Airways,"9:20 PM on Wed, May 20","5:35 PM on Thu, May 21",20 hr 15 min,1,549.0,$549,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,LOT,"12:35 PM on Wed, May 20","11:35 PM on Wed, May 20",11 hr,1,568.0,$568,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,KLM,"11:10 AM on Wed, May 20","7:35 PM on Wed, May 20",8 hr 25 min,1,634.0,$634,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,KLM,"1:25 PM on Wed, May 20","7:35 PM on Wed, May 20",6 hr 10 min,1,634.0,$634,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,KLM,"5:20 PM on Wed, May 20","11:25 PM on Wed, May 20",6 hr 5 min,1,634.0,$634,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Scandinavian Airlines,"7:00 PM on Wed, May 20","12:00 PM on Thu, May 21",17 hr,1,718.0,$718,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Luxair,"3:25 PM on Wed, May 20","7:30 PM on Thu, May 21",28 hr 5 min,1,728.0,$728,False,typical,BCN,MAD
+2026-04-20 18:01:34.737341,2026-05-20,30,Turkish Airlines,"7:05 PM on Wed, May 20","10:25 AM on Thu, May 21",15 hr 20 min,1,771.0,$771,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"12:30 PM on Thu, Jun 4","1:55 PM on Thu, Jun 4",1 hr 25 min,0,100.0,$100,True,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"1:35 PM on Thu, Jun 4","3:00 PM on Thu, Jun 4",1 hr 25 min,0,100.0,$100,True,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"2:50 PM on Thu, Jun 4","4:15 PM on Thu, Jun 4",1 hr 25 min,0,100.0,$100,True,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"10:35 AM on Thu, Jun 4","12:00 PM on Thu, Jun 4",1 hr 25 min,0,111.0,$111,True,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Air Europa,"11:50 AM on Thu, Jun 4","1:20 PM on Thu, Jun 4",1 hr 30 min,0,140.0,$140,True,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"7:00 PM on Thu, Jun 4","7:20 AM on Fri, Jun 5",12 hr 20 min,1,100.0,$100,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"8:50 AM on Thu, Jun 4","10:15 AM on Thu, Jun 4",1 hr 25 min,0,111.0,$111,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"7:00 AM on Thu, Jun 4","8:25 AM on Thu, Jun 4",1 hr 25 min,0,115.0,$115,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"8:00 AM on Thu, Jun 4","9:25 AM on Thu, Jun 4",1 hr 25 min,0,115.0,$115,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"8:05 PM on Thu, Jun 4","9:30 PM on Thu, Jun 4",1 hr 25 min,0,115.0,$115,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"9:45 AM on Thu, Jun 4","11:10 AM on Thu, Jun 4",1 hr 25 min,0,126.0,$126,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"9:10 PM on Thu, Jun 4","10:35 PM on Thu, Jun 4",1 hr 25 min,0,126.0,$126,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"6:55 PM on Thu, Jun 4","8:20 PM on Thu, Jun 4",1 hr 25 min,0,137.0,$137,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"9:15 AM on Thu, Jun 4","10:40 AM on Thu, Jun 4",1 hr 25 min,0,145.0,$145,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"6:15 PM on Thu, Jun 4","7:40 PM on Thu, Jun 4",1 hr 25 min,0,145.0,$145,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Tap Air Portugal,"6:00 AM on Thu, Jun 4","12:20 AM on Fri, Jun 5",18 hr 20 min,1,151.0,$151,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Tap Air Portugal,"5:45 PM on Thu, Jun 4","12:20 AM on Fri, Jun 5",6 hr 35 min,1,151.0,$151,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"5:00 PM on Thu, Jun 4","6:25 PM on Thu, Jun 4",1 hr 25 min,0,152.0,$152,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Vueling, Iberia","7:30 AM on Thu, Jun 4","12:50 PM on Thu, Jun 4",5 hr 20 min,1,169.0,$169,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Vueling, Iberia","8:45 AM on Thu, Jun 4","7:15 PM on Thu, Jun 4",10 hr 30 min,1,169.0,$169,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Vueling, Iberia","10:50 AM on Thu, Jun 4","7:15 PM on Thu, Jun 4",8 hr 25 min,1,169.0,$169,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Vueling, Iberia","12:25 PM on Thu, Jun 4","8:35 PM on Thu, Jun 4",8 hr 10 min,1,169.0,$169,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Vueling, Iberia","1:20 PM on Thu, Jun 4","10:10 PM on Thu, Jun 4",8 hr 50 min,1,169.0,$169,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Air Europa,"8:30 PM on Thu, Jun 4","10:00 PM on Thu, Jun 4",1 hr 30 min,0,170.0,$170,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Brussels Airlines,"5:35 AM on Thu, Jun 4","11:50 AM on Thu, Jun 4",6 hr 15 min,1,173.0,$173,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Brussels Airlines,"12:25 PM on Thu, Jun 4","8:05 PM on Thu, Jun 4",7 hr 40 min,1,173.0,$173,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Brussels Airlines,"9:20 PM on Thu, Jun 4","4:45 PM on Fri, Jun 5",19 hr 25 min,1,173.0,$173,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Tap Air Portugal,"8:20 PM on Thu, Jun 4","3:20 PM on Fri, Jun 5",19 hr,1,176.0,$176,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Tap Air Portugal,"10:40 PM on Thu, Jun 4","3:20 PM on Fri, Jun 5",16 hr 40 min,1,176.0,$176,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Lufthansa,"8:00 AM on Thu, Jun 4","11:40 PM on Thu, Jun 4",15 hr 40 min,1,177.0,$177,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Lufthansa,"10:20 AM on Thu, Jun 4","11:40 PM on Thu, Jun 4",13 hr 20 min,1,177.0,$177,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Vueling, Iberia","7:00 AM on Thu, Jun 4","7:15 PM on Thu, Jun 4",12 hr 15 min,1,181.0,$181,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Tap Air Portugal,"11:25 AM on Thu, Jun 4","12:20 AM on Fri, Jun 5",12 hr 55 min,1,184.0,$184,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Brussels Airlines,"3:15 PM on Thu, Jun 4","4:45 PM on Fri, Jun 5",25 hr 30 min,1,187.0,$187,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Vueling, Iberia","5:50 AM on Thu, Jun 4","2:15 PM on Thu, Jun 4",8 hr 25 min,1,191.0,$191,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Vueling, British Airways","7:30 AM on Thu, Jun 4","3:50 PM on Thu, Jun 4",8 hr 20 min,1,191.0,$191,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Air Europa,"8:40 AM on Thu, Jun 4","12:05 PM on Thu, Jun 4",3 hr 25 min,1,196.0,$196,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Lufthansa,"6:40 AM on Thu, Jun 4","7:50 PM on Thu, Jun 4",13 hr 10 min,1,203.0,$203,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Lufthansa,"12:40 PM on Thu, Jun 4","7:50 PM on Thu, Jun 4",7 hr 10 min,1,203.0,$203,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,ITA,"6:20 AM on Thu, Jun 4","12:10 AM on Fri, Jun 5",17 hr 50 min,1,209.0,$209,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Tap Air Portugal,"3:00 PM on Thu, Jun 4","12:20 AM on Fri, Jun 5",9 hr 20 min,1,211.0,$211,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Lufthansa, Lufthansa City Airlines","7:55 AM on Thu, Jun 4","2:10 PM on Thu, Jun 4",6 hr 15 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Lufthansa,"7:55 AM on Thu, Jun 4","5:40 PM on Thu, Jun 4",9 hr 45 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Lufthansa City Airlines, Lufthansa","9:10 AM on Thu, Jun 4","5:40 PM on Thu, Jun 4",8 hr 30 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Lufthansa City Airlines,"9:10 AM on Thu, Jun 4","10:30 PM on Thu, Jun 4",13 hr 20 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Lufthansa City Airlines, Lufthansa","11:50 AM on Thu, Jun 4","5:40 PM on Thu, Jun 4",5 hr 50 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Lufthansa City Airlines,"11:50 AM on Thu, Jun 4","10:30 PM on Thu, Jun 4",10 hr 40 min,1,225.0,$225,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Iberia,"2:30 PM on Thu, Jun 4","9:00 PM on Thu, Jun 4",6 hr 30 min,1,226.0,$226,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Vueling, British Airways","6:35 PM on Thu, Jun 4","9:40 AM on Fri, Jun 5",15 hr 5 min,1,228.0,$228,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,ITA,"4:50 PM on Thu, Jun 4","12:10 AM on Fri, Jun 5",7 hr 20 min,1,231.0,$231,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Lufthansa,"4:20 PM on Thu, Jun 4","11:40 PM on Thu, Jun 4",7 hr 20 min,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Lufthansa,"5:10 PM on Thu, Jun 4","11:40 PM on Thu, Jun 4",6 hr 30 min,1,236.0,$236,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Air Europa,"3:30 PM on Thu, Jun 4","6:10 PM on Thu, Jun 4",2 hr 40 min,1,241.0,$241,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Air Europa,"6:45 PM on Thu, Jun 4","10:35 PM on Thu, Jun 4",3 hr 50 min,1,241.0,$241,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Royal Air Maroc,"8:10 PM on Thu, Jun 4","12:35 PM on Fri, Jun 5",16 hr 25 min,1,254.0,$254,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Lufthansa, Lufthansa City Airlines","3:40 PM on Thu, Jun 4","10:30 PM on Thu, Jun 4",6 hr 50 min,1,258.0,$258,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Air France,"9:15 PM on Thu, Jun 4","9:10 AM on Fri, Jun 5",11 hr 55 min,1,267.0,$267,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"British Airways, Iberia","3:05 PM on Thu, Jun 4","10:10 PM on Thu, Jun 4",7 hr 5 min,1,267.0,$267,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Royal Air Maroc,"1:45 PM on Thu, Jun 4","7:10 PM on Thu, Jun 4",5 hr 25 min,1,268.0,$268,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Aegean,"1:55 AM on Thu, Jun 4","12:00 PM on Thu, Jun 4",10 hr 5 min,1,268.0,$268,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Luxair,"3:10 PM on Thu, Jun 4","8:35 AM on Fri, Jun 5",17 hr 25 min,1,268.0,$268,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Lufthansa,"1:50 PM on Thu, Jun 4","7:50 PM on Thu, Jun 4",6 hr,1,269.0,$269,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,ITA,"11:40 AM on Thu, Jun 4","12:10 AM on Fri, Jun 5",12 hr 30 min,1,275.0,$275,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Air Europa,"10:00 PM on Thu, Jun 4","9:25 AM on Fri, Jun 5",11 hr 25 min,1,285.0,$285,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"British Airways, Iberia","7:40 AM on Thu, Jun 4","2:15 PM on Thu, Jun 4",6 hr 35 min,1,289.0,$289,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Lufthansa,"7:00 PM on Thu, Jun 4","12:20 PM on Fri, Jun 5",17 hr 20 min,1,294.0,$294,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,SWISS,"6:00 AM on Thu, Jun 4","6:40 PM on Thu, Jun 4",12 hr 40 min,1,296.0,$296,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,SWISS,"9:40 AM on Thu, Jun 4","6:40 PM on Thu, Jun 4",9 hr,1,296.0,$296,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,SWISS,"8:00 PM on Thu, Jun 4","9:20 AM on Fri, Jun 5",13 hr 20 min,1,296.0,$296,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,KLM,"6:20 AM on Thu, Jun 4","12:10 PM on Thu, Jun 4",5 hr 50 min,1,308.0,$308,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,KLM,"9:20 AM on Thu, Jun 4","4:25 PM on Thu, Jun 4",7 hr 5 min,1,308.0,$308,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Vueling, Iberia","7:55 PM on Thu, Jun 4","12:50 PM on Fri, Jun 5",16 hr 55 min,1,325.0,$325,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Air Serbia,"9:55 AM on Thu, Jun 4","6:00 PM on Thu, Jun 4",8 hr 5 min,1,328.0,$328,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Air France,"6:10 AM on Thu, Jun 4","11:20 AM on Thu, Jun 4",5 hr 10 min,1,342.0,$342,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Air France,"3:50 PM on Thu, Jun 4","9:10 AM on Fri, Jun 5",17 hr 20 min,1,342.0,$342,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Lufthansa,"6:40 PM on Thu, Jun 4","5:40 PM on Fri, Jun 5",23 hr,1,349.0,$349,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Finnair,"10:05 AM on Thu, Jun 4","8:05 PM on Thu, Jun 4",10 hr,1,354.0,$354,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"British Airways, Iberia","7:30 PM on Thu, Jun 4","12:40 PM on Fri, Jun 5",17 hr 10 min,1,363.0,$363,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"British Airways, Iberia","4:50 PM on Thu, Jun 4","10:35 PM on Thu, Jun 4",5 hr 45 min,1,370.0,$370,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"ITA, Air Europa","6:20 AM on Thu, Jun 4","1:05 PM on Thu, Jun 4",6 hr 45 min,1,371.0,$371,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Eurowings,"10:30 AM on Thu, Jun 4","6:40 PM on Thu, Jun 4",8 hr 10 min,1,425.0,$425,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,SWISS,"2:55 PM on Thu, Jun 4","9:20 AM on Fri, Jun 5",18 hr 25 min,1,429.0,$429,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Turkish Airlines,"7:40 AM on Thu, Jun 4","4:55 PM on Thu, Jun 4",9 hr 15 min,1,434.0,$434,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Turkish Airlines,"7:05 PM on Thu, Jun 4","10:25 AM on Fri, Jun 5",15 hr 20 min,1,434.0,$434,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Turkish Airlines,"12:10 PM on Thu, Jun 4","10:35 PM on Thu, Jun 4",10 hr 25 min,1,458.0,$458,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,KLM,"1:25 PM on Thu, Jun 4","7:35 PM on Thu, Jun 4",6 hr 10 min,1,476.0,$476,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,KLM,"5:20 PM on Thu, Jun 4","11:25 PM on Thu, Jun 4",6 hr 5 min,1,476.0,$476,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,"Turkish Airlines, Air Europa","7:40 AM on Thu, Jun 4","7:00 PM on Thu, Jun 4",11 hr 20 min,1,493.0,$493,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Air France,"6:10 PM on Thu, Jun 4","11:15 PM on Thu, Jun 4",5 hr 5 min,1,497.0,$497,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,Scandinavian Airlines,"7:00 PM on Thu, Jun 4","12:00 PM on Fri, Jun 5",17 hr,1,571.0,$571,False,typical,BCN,MAD
+2026-04-20 18:01:42.894274,2026-06-04,45,LOT,"12:35 PM on Thu, Jun 4","11:35 PM on Thu, Jun 4",11 hr,1,621.0,$621,False,typical,BCN,MAD
+2026-04-20 18:01:46.781527,2026-06-19,60,,,,,Unknown,89.0,$89,True,typical,BCN,MAD
