@@ -1,0 +1,154 @@
+2026-04-29 09:07:14,583 [INFO] === Iniciando sesión de scraping 20260429_090714 ===
+2026-04-29 09:07:14,583 [INFO]   Consultando BCN→MAD para 2026-04-30 (DTD=1)...
+2026-04-29 09:07:14,584 [WARNING] Impersonate 'chrome_126' does not exist, using 'random'
+2026-04-29 09:07:14,927 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDQtMzBqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-29 09:07:15,031 [ERROR]   Error al consultar 2026-04-30: No flights found:
+Skip to main contentAccessibility feedback
+Change appearance
+[Sign in][1]
+Travel
+Explore
+Flights
+Hotels
+Vacation rentals
+Travel
+Explore
+Flights
+Hotels
+Vacation rentals
+Flight Deals
+Tracked flight prices
+Tracked hotel prices
+Price guarantee
+Change language
+Change currency
+Change location
+Feedback
+Help
+Loading results
+Loading results
+
+# Flight search
+
+One way
+* Round trip
+* One way
+* Multi-city
+1
+* Adults
+  Remove adult
+  11
+  Add adult
+* Children Aged 2-11
+  Aged 2 to 11
+  Remove child aged 2 to 11
+  00
+  Add child aged 2 to 11
+* Infants In seat
+  Remove infant in seat
+  00
+  Add infant in seat
+* Infants On lap
+  Remove infant on lap
+  00
+  Add infant on lap
+DoneCancel
+Economy
+* Economy
+* Premium economy
+* Business
+* First
+Barcelona BCN
+BCN · Barcelona
+Remove
+Select multiple airports
+Done
+Madrid MAD
+MAD · Madrid
+Remove
+Select multiple airports
+Done
+DepartureThu, Apr 30
+Return
+DepartureThu, Apr 30
+Return
+One way
+* Round trip
+* One way
+Reset
+Done
+Add flight
+
+## Filters
+
+Stops
+Airlines
+Bags
+Price
+Times
+Emissions
+Connecting airports
+Duration
+All filters
+
+## Search results
+
+LanguageEnglish (United States)LocationUnited StatesCurrencyUSD
+[About][2][Privacy][3][Terms][4][Join user studies][5][Feedback][6][Help Center][7]
+
+Displayed currencies may differ from the currencies used to purchase flights. [Learn more][8]
+
+Google apps
+Main menu
+
+[1]: https://accounts.google.com/ServiceLogin?service=searchandassistant&passive=1209600&continue=ht
+tps://www.google.com/travel/flights?tfs%3DGhoSCjIwMjYtMDQtMzBqBRIDQkNOcgUSA01BREIBAUgBmAEC%26hl%3Den
+%26tfu%3DEgQIABABIgA%26curr&followup=https://www.google.com/travel/flights?tfs%3DGhoSCjIwMjYtMDQtMzB
+qBRIDQkNOcgUSA01BREIBAUgBmAEC%26hl%3Den%26tfu%3DEgQIABABIgA%26curr&hl=en&ec=GAZAlQM
+[2]: https://about.google/?hl=en-US
+[3]: https://policies.google.com/privacy?hl=en-US
+[4]: https://policies.google.com/terms?hl=en-US
+[5]: https://google.qualtrics.com/jfe/form/SV_3NMIMtX0F2zkakR?reserved%3D1%26utm_source%3DFooter%252
+0link%26utm_medium%3Down_web%26%20utm_campaign%3DQ2%26productTag%3D0%26campaignDate%3DApril2020%26re
+ferral_code%3DUXbJ377133&Q_Language=en-US
+[6]: ./#0
+[7]: https://support.google.com/travel/?hl=en-US#topic=2475360
+[8]: https://www.google.com/googlefinance/disclaimer?hl=en-US&gl=US
+
+2026-04-29 09:07:15,032 [INFO]   Esperando 6.1s antes de la siguiente consulta...
+2026-04-29 09:07:21,127 [INFO]   Consultando BCN→MAD para 2026-05-02 (DTD=3)...
+2026-04-29 09:07:21,291 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDUtMDJqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-29 09:07:21,822 [INFO]   → 307 vuelos encontrados. Precio mínimo: $68.0
+2026-04-29 09:07:21,822 [INFO]   Esperando 5.6s antes de la siguiente consulta...
+2026-04-29 09:07:27,460 [INFO]   Consultando BCN→MAD para 2026-05-06 (DTD=7)...
+2026-04-29 09:07:27,597 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDUtMDZqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-29 09:07:28,765 [INFO]   → 273 vuelos encontrados. Precio mínimo: $75.0
+2026-04-29 09:07:28,765 [INFO]   Esperando 4.6s antes de la siguiente consulta...
+2026-04-29 09:07:33,370 [INFO]   Consultando BCN→MAD para 2026-05-09 (DTD=10)...
+2026-04-29 09:07:33,560 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDUtMDlqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-29 09:07:34,854 [INFO]   → 311 vuelos encontrados. Precio mínimo: $60.0
+2026-04-29 09:07:34,854 [INFO]   Esperando 5.6s antes de la siguiente consulta...
+2026-04-29 09:07:40,484 [INFO]   Consultando BCN→MAD para 2026-05-13 (DTD=14)...
+2026-04-29 09:07:40,661 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDUtMTNqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-29 09:07:41,227 [INFO]   → 329 vuelos encontrados. Precio mínimo: $75.0
+2026-04-29 09:07:41,227 [INFO]   Esperando 3.5s antes de la siguiente consulta...
+2026-04-29 09:07:44,721 [INFO]   Consultando BCN→MAD para 2026-05-20 (DTD=21)...
+2026-04-29 09:07:44,891 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDUtMjBqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-29 09:07:45,776 [INFO]   → 327 vuelos encontrados. Precio mínimo: $75.0
+2026-04-29 09:07:45,776 [INFO]   Esperando 5.6s antes de la siguiente consulta...
+2026-04-29 09:07:51,353 [INFO]   Consultando BCN→MAD para 2026-05-29 (DTD=30)...
+2026-04-29 09:07:51,586 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDUtMjlqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-29 09:07:52,920 [INFO]   → 313 vuelos encontrados. Precio mínimo: $136.0
+2026-04-29 09:07:52,920 [INFO]   Esperando 5.9s antes de la siguiente consulta...
+2026-04-29 09:07:58,860 [INFO]   Consultando BCN→MAD para 2026-06-13 (DTD=45)...
+2026-04-29 09:07:59,021 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDYtMTNqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-29 09:07:59,715 [INFO]   → 289 vuelos encontrados. Precio mínimo: $72.0
+2026-04-29 09:07:59,715 [INFO]   Esperando 5.6s antes de la siguiente consulta...
+2026-04-29 09:08:05,355 [INFO]   Consultando BCN→MAD para 2026-06-28 (DTD=60)...
+2026-04-29 09:08:05,578 [INFO] response: https://www.google.com/travel/flights?tfs=GhoSCjIwMjYtMDYtMjhqBRIDQkNOcgUSA01BREIBAUgBmAEC&hl=en&tfu=EgQIABABIgA&curr= 200
+2026-04-29 09:08:06,816 [INFO]   → 287 vuelos encontrados. Precio mínimo: $125.0
+2026-04-29 09:08:06,923 [INFO] === Sesión completada ===
+2026-04-29 09:08:06,923 [INFO]   Registros nuevos:  2436
+2026-04-29 09:08:06,923 [INFO]   Total acumulado:   12479
+2026-04-29 09:08:06,923 [INFO]   Guardado en:       /home/runner/work/yield-management-bcn-mad/yield-management-bcn-mad/data/bcn_mad_prices.parquet
+2026-04-29 09:08:06,925 [INFO]   Resumen guardado:  /home/runner/work/yield-management-bcn-mad/yield-management-bcn-mad/logs/summary_20260429_090714.json
