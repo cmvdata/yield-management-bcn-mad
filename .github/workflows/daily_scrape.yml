@@ -2,7 +2,8 @@ name: Daily BCN-MAD Scrape
 
 on:
   schedule:
-    - cron: '0 9 * * *'   # 09:00 UTC todos los días
+    - cron: '0 7 * * *'   # 07:00 UTC (09:00 Madrid)
+    - cron: '0 17 * * *'  # 17:00 UTC (19:00 Madrid)
   workflow_dispatch:       # permitir trigger manual
 
 jobs:

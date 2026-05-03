@@ -98,10 +98,14 @@ Cada sesión añade filas con un `scraped_at` único; nunca se sobrescriben obse
 
 ## Limitaciones conocidas
 
-- **Google puede bloquear IPs de datacenter de GitHub Actions** y devolver la página de consentimiento. Cuando pasa, el filtro defensivo descarta las filas degradadas; si afecta a >50 % de queries la sesión sale con exit 1 y email automático. Si esto ocurre dos días seguidos, considerar **plan B: cron local** (un PC siempre encendido o Raspberry Pi).
-- **`fast-flights` no expone `fare_class`** → el dedup intra-sesión conserva solo la tarifa más barata.
+- **Bloqueo desde IPs ES (residenciales)**: ejecutar el scraper desde una IP española lleva a la página de consentimiento GDPR de Google (`consent.google.com?gl=ES`) y todas las queries devuelven 0 vuelos. **Sin embargo, GitHub Actions corre desde IPs de datacenter US y funciona sin problema** — el panel histórico se ha generado así desde el 17 de abril de 2026. Si en algún momento Google empieza a bloquear también las IPs de Actions y >50 % de queries fallan dos días seguidos, considerar **plan B: cron local** (PC siempre encendido o VPS fuera de la UE).
+- **Filas con `airline` vacío en el panel histórico** (≈105 filas, 0,6 %): las primeras sesiones del scraper (16-17 abril 2026) generaron filas degradadas debido a un bug en el parsing inicial. Se conservan en el parquet por integridad de la serie. **Filtrarlas en notebook downstream**: `df[df.airline.astype(str).str.strip() != ""]`. El filtro defensivo actual previene la generación de filas vacías nuevas.
+- **`fast-flights` no expone `fare_class`** → el dedup intra-sesión conserva solo la tarifa más barata por vuelo+momento.
 - **Hora local de los vuelos** viene como string libre de Google; el parsing fino para análisis se hace en notebook downstream.
-- **Cron 09:00 UTC** = una sola foto al día. Para ver dinámica intra-día habría que duplicar el cron.
+
+## Notas de transición
+
+- **Bidireccional desde 2026-05-04**: a partir del primer push posterior a esta fecha, el scraper cubre **ambas direcciones** (`BCN→MAD` y `MAD→BCN`). Filas con `scraped_at` anterior a 2026-05-04 son **solo `BCN→MAD`**; el panel histórico debe filtrarse por `origin`/`destination` si se quiere comparar épocas pre/post bidireccional.
 
 ---
 
