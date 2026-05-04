@@ -1,0 +1,206 @@
+{
+  "session_id": "20260504_181240",
+  "scraped_at": "2026-05-04T18:12:40.399241",
+  "status": "partial",
+  "new_records": 1185,
+  "dedup_drops": 3079,
+  "total_records": 21216,
+  "queries_ok": 14,
+  "queries_failed": 4,
+  "failure_rate": 0.222,
+  "query_logs": [
+    {
+      "timestamp": "2026-05-04T18:12:40.399542",
+      "query": "BCN-MAD 2026-05-05 (DTD=1)",
+      "n_raw": 275,
+      "n_filtered": 275,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:12:47.615100",
+      "query": "BCN-MAD 2026-05-07 (DTD=3)",
+      "n_raw": 279,
+      "n_filtered": 279,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:13:25.032732",
+      "query": "BCN-MAD 2026-05-11 (DTD=7)",
+      "n_raw": 283,
+      "n_filtered": 283,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:13:32.109100",
+      "query": "BCN-MAD 2026-05-14 (DTD=10)",
+      "n_raw": 321,
+      "n_filtered": 0,
+      "status": "failed"
+    },
+    {
+      "timestamp": "2026-05-04T18:14:10.631500",
+      "query": "BCN-MAD 2026-05-18 (DTD=14)",
+      "n_raw": 317,
+      "n_filtered": 317,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:14:17.855428",
+      "query": "BCN-MAD 2026-05-25 (DTD=21)",
+      "n_raw": 323,
+      "n_filtered": 323,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:14:23.225788",
+      "query": "BCN-MAD 2026-06-03 (DTD=30)",
+      "n_raw": 337,
+      "n_filtered": 0,
+      "status": "failed"
+    },
+    {
+      "timestamp": "2026-05-04T18:14:58.983841",
+      "query": "BCN-MAD 2026-06-18 (DTD=45)",
+      "n_raw": 311,
+      "n_filtered": 311,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:15:03.880325",
+      "query": "BCN-MAD 2026-07-03 (DTD=60)",
+      "n_raw": 307,
+      "n_filtered": 307,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:15:09.770321",
+      "query": "MAD-BCN 2026-05-05 (DTD=1)",
+      "n_raw": 273,
+      "n_filtered": 273,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:15:19.035738",
+      "query": "MAD-BCN 2026-05-07 (DTD=3)",
+      "n_raw": 303,
+      "n_filtered": 303,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:15:25.810423",
+      "query": "MAD-BCN 2026-05-11 (DTD=7)",
+      "n_raw": 301,
+      "n_filtered": 301,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:15:33.086045",
+      "query": "MAD-BCN 2026-05-14 (DTD=10)",
+      "n_raw": 333,
+      "n_filtered": 333,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:16:09.637572",
+      "query": "MAD-BCN 2026-05-18 (DTD=14)",
+      "n_raw": 297,
+      "n_filtered": 297,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:16:14.577136",
+      "query": "MAD-BCN 2026-05-25 (DTD=21)",
+      "n_raw": 317,
+      "n_filtered": 0,
+      "status": "failed"
+    },
+    {
+      "timestamp": "2026-05-04T18:16:54.073248",
+      "query": "MAD-BCN 2026-06-03 (DTD=30)",
+      "n_raw": 327,
+      "n_filtered": 0,
+      "status": "failed"
+    },
+    {
+      "timestamp": "2026-05-04T18:17:29.620665",
+      "query": "MAD-BCN 2026-06-18 (DTD=45)",
+      "n_raw": 329,
+      "n_filtered": 329,
+      "status": "ok"
+    },
+    {
+      "timestamp": "2026-05-04T18:18:06.567940",
+      "query": "MAD-BCN 2026-07-03 (DTD=60)",
+      "n_raw": 333,
+      "n_filtered": 333,
+      "status": "ok"
+    }
+  ],
+  "routes_covered": [
+    "BCN-MAD",
+    "MAD-BCN"
+  ],
+  "dtd_covered": [
+    1,
+    3,
+    7,
+    10,
+    14,
+    21,
+    30,
+    45,
+    60
+  ],
+  "dates_covered": [
+    "2026-05-05",
+    "2026-05-07",
+    "2026-05-11",
+    "2026-05-14",
+    "2026-05-18",
+    "2026-05-25",
+    "2026-06-18",
+    "2026-07-03"
+  ],
+  "airlines_found": [
+    "Aegean",
+    "Air Algerie",
+    "Air Europa",
+    "Air Europa, ITA",
+    "Air Europa, Turkish Airlines",
+    "Air France",
+    "Air Serbia",
+    "British Airways",
+    "British Airways, Iberia",
+    "British Airways, Vueling",
+    "Brussels Airlines",
+    "Croatia",
+    "El Al, Iberia",
+    "Eurowings",
+    "Finnair",
+    "ITA",
+    "ITA, Air Europa",
+    "Iberia",
+    "Iberia, British Airways",
+    "Iberia, Royal Air Maroc",
+    "KLM",
+    "LOT",
+    "Lufthansa",
+    "Lufthansa City Airlines",
+    "Lufthansa City Airlines, Lufthansa",
+    "Lufthansa, Lufthansa City Airlines",
+    "Luxair",
+    "Royal Air Maroc",
+    "Royal Air Maroc, Iberia",
+    "SWISS",
+    "Scandinavian Airlines",
+    "SunExpress",
+    "Tap Air Portugal",
+    "Turkish Airlines",
+    "Turkish Airlines, Air Europa",
+    "Vueling, British Airways",
+    "Vueling, Iberia"
+  ],
+  "price_min_usd": 58.0,
+  "price_max_usd": 1335.0,
+  "price_mean_usd": 365.43
+}
